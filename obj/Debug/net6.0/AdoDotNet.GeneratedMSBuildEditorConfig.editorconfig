@@ -1,0 +1,56 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AdoDotNet
+build_property.RootNamespace = AdoDotNet
+build_property.ProjectDir = /home/ss/Desktop/Link to www/DevSkill_intern/AdoDotNet/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /home/ss/Desktop/Link to www/DevSkill_intern/AdoDotNet
+build_property._RazorSourceGeneratorDebug = 
+
+[/mnt/www/DevSkill_intern/AdoDotNet/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/mnt/www/DevSkill_intern/AdoDotNet/Views/Home/CreateNew.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q3JlYXRlTmV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/mnt/www/DevSkill_intern/AdoDotNet/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = SW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/mnt/www/DevSkill_intern/AdoDotNet/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/mnt/www/DevSkill_intern/AdoDotNet/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/mnt/www/DevSkill_intern/AdoDotNet/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X0xvZ2luUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/mnt/www/DevSkill_intern/AdoDotNet/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/mnt/www/DevSkill_intern/AdoDotNet/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/mnt/www/DevSkill_intern/AdoDotNet/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/mnt/www/DevSkill_intern/AdoDotNet/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-6l4jwv8qoz
